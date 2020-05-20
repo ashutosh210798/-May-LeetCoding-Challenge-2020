@@ -3,7 +3,7 @@
  
  Challenge URL : https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/
  
- Editorial for Day 7 and Day 14 problem written by me :
+ #Editorial for Day 7 and Day 14 problem written by me :
  
  Day 7  : https://www.quora.com/q/coding/May-Leetcoding-challenge-Day-7-problem-Cousins-in-Binary-Tree-Solution
  
